@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lorem/static/css/main.15108b66.chunk.css",
+    "main.js": "/lorem/static/js/main.8e9b9d27.chunk.js",
+    "main.js.map": "/lorem/static/js/main.8e9b9d27.chunk.js.map",
+    "runtime~main.js": "/lorem/static/js/runtime~main.03c8ed92.js",
+    "runtime~main.js.map": "/lorem/static/js/runtime~main.03c8ed92.js.map",
+    "static/js/2.4de14262.chunk.js": "/lorem/static/js/2.4de14262.chunk.js",
+    "static/js/2.4de14262.chunk.js.map": "/lorem/static/js/2.4de14262.chunk.js.map",
+    "index.html": "/lorem/index.html",
+    "precache-manifest.74f4fd766230ad6db2882fd5dcbbf1dd.js": "/lorem/precache-manifest.74f4fd766230ad6db2882fd5dcbbf1dd.js",
+    "service-worker.js": "/lorem/service-worker.js",
+    "static/css/main.15108b66.chunk.css.map": "/lorem/static/css/main.15108b66.chunk.css.map"
+  }
+}
